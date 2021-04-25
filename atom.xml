@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://3139855786.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-25T01:12:37.061Z</updated>
+    <updated>2021-04-25T01:17:41.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://3139855786.github.io"/>
     <link rel="self" href="http://3139855786.github.io/atom.xml"/>
@@ -10,18 +10,6 @@
     <logo>http://3139855786.github.io/images/avatar.png</logo>
     <icon>http://3139855786.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[Gridea同步失败]]></title>
-        <id>http://3139855786.github.io/post/gridea-tong-bu-shi-bai/</id>
-        <link href="http://3139855786.github.io/post/gridea-tong-bu-shi-bai/">
-        </link>
-        <updated>2021-04-25T00:48:45.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<h1>同步失败:</h1>
-<p>同步遇到了错误，请查阅 FAQ 或 Issues 来寻找解决方案</p>
-<h2>解决方法:</h2>
-<p>修改host文件(自己百度),有 火绒可直接修改.</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://3139855786.github.io/post/hello-gridea/</id>
